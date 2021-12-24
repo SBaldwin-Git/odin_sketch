@@ -1,0 +1,1 @@
+let gridContainer = document.querySelector('#gridContainer');

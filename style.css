@@ -1,0 +1,20 @@
+html{
+    height: 100%;
+    background-color: #F4F4F4;
+}
+
+header h1{
+    text-align: center;
+}
+
+body{
+    height: 100%;
+}
+
+#gridContainer{
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: red;
+    margin-top: 5%;
+}
